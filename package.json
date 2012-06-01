@@ -1,0 +1,19 @@
+{
+   "name"           : "arg",
+   "main"           : "arg.js",
+   "description"    : "Simple arguments parser in 100 bytes",
+   "author"         : "Mikhail Davydov, http://bit.ly/JXLHCO",
+   "version"        : "0.0.1",
+   "keywords"       : [ "arg", "args", "arguments", "arguments parser" ],
+   "engines"        : {
+      "node"        : ">=0.4.12"
+   },
+   "licenses"       : [{
+      "type"        : "PUBLIC LICENSE",
+      "url"         : "http://bit.ly/JXKHyp"
+   }],
+   "repository"     : {
+     "type"         : "git",
+     "url"          : "git://github.com/tnhu/arg.git"
+   }
+}
